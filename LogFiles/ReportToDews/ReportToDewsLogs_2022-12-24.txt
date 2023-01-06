@@ -1,0 +1,9 @@
+[12-24 16:41:00] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-24 16:41:00] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 24_12_2022 16_41_00
+[12-24 16:41:00] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 24_12_2022 16_41_00
+[12-24 16:41:00] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 24_12_2022 16_41_00
+[12-24 16:41:00] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 24_12_2022 16_41_00
+[12-24 16:41:08] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Company_ReportToDews_Template.xlsx_Sample India Company_ReportToDews_Template.xlsx
+[12-24 16:41:08] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Company_ReportToDews_Template.xlsx
+[12-24 16:41:21] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-24 16:41:22] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull

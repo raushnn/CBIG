@@ -1,0 +1,897 @@
+[12-23 01:27:58] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:27:58] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_27_58
+[12-23 01:27:58] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_27_58
+[12-23 01:27:58] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_27_58
+[12-23 01:27:58] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_27_58
+[12-23 01:28:10] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:28:10] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:32:56] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:32:56] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_32_56
+[12-23 01:32:56] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_32_56
+[12-23 01:32:56] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_32_56
+[12-23 01:32:56] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_32_56
+[12-23 01:33:05] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:33:05] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:34:14] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:34:14] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_34_14
+[12-23 01:34:14] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_34_14
+[12-23 01:34:14] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_34_14
+[12-23 01:34:14] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_34_14
+[12-23 01:34:21] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:34:21] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:36:03] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:36:03] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_36_03
+[12-23 01:36:03] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_36_03
+[12-23 01:36:03] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_36_03
+[12-23 01:36:03] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_36_03
+[12-23 01:36:12] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:36:12] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:39:36] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:39:36] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_39_36
+[12-23 01:39:36] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_39_36
+[12-23 01:39:36] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_39_36
+[12-23 01:39:36] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_39_36
+[12-23 01:39:46] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:39:46] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:41:53] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:41:53] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_41_53
+[12-23 01:41:53] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_41_53
+[12-23 01:41:53] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_41_53
+[12-23 01:41:53] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_41_53
+[12-23 01:42:00] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:42:00] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:44:34] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:44:34] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_44_34
+[12-23 01:44:34] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_44_34
+[12-23 01:44:34] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_44_34
+[12-23 01:44:34] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_44_34
+[12-23 01:44:42] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:44:42] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 01:45:38] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:45:38] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_45_38
+[12-23 01:45:38] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_45_38
+[12-23 01:45:38] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_45_38
+[12-23 01:45:38] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_45_38
+[12-23 01:45:46] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 01:45:48] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:45:48] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:46:11] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:46:11] [CBIGUtilities.py:446 - validate_input_files()] ERROR - Must have equal len keys and value when setting with an iterable
+[12-23 01:46:35] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:46:35] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_46_35
+[12-23 01:46:35] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_46_35
+[12-23 01:46:35] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_46_35
+[12-23 01:46:35] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_46_35
+[12-23 01:46:41] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 01:46:42] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:46:42] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:46:49] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:46:49] [CBIGUtilities.py:446 - validate_input_files()] ERROR - Must have equal len keys and value when setting with an iterable
+[12-23 01:52:40] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:52:40] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_52_40
+[12-23 01:52:40] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_52_40
+[12-23 01:52:40] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_52_40
+[12-23 01:52:40] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_52_40
+[12-23 01:52:49] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 01:52:51] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:52:51] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:53:03] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:53:03] [CBIGUtilities.py:446 - validate_input_files()] ERROR - Must have equal len keys and value when setting with an iterable
+[12-23 01:53:24] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 01:53:24] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 01_53_24
+[12-23 01:53:24] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 01_53_24
+[12-23 01:53:24] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 01_53_24
+[12-23 01:53:24] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 01_53_24
+[12-23 01:53:32] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 01:53:34] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:53:34] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:53:43] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 01:53:43] [CBIGUtilities.py:446 - validate_input_files()] ERROR - Must have equal len keys and value when setting with an iterable
+[12-23 02:02:54] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:02:54] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_02_54
+[12-23 02:02:54] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_02_54
+[12-23 02:02:54] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_02_54
+[12-23 02:02:54] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_02_54
+[12-23 02:03:03] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:03:05] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:03:05] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:03:14] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:03:14] [CBIGUtilities.py:446 - validate_input_files()] ERROR - Must have equal len keys and value when setting with an iterable
+[12-23 02:05:34] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:05:34] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_05_34
+[12-23 02:05:34] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_05_34
+[12-23 02:05:34] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_05_34
+[12-23 02:05:34] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_05_34
+[12-23 02:05:42] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:05:43] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:05:43] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:05:51] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:05:51] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:05:51] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:05:51] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:05:58] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:05:58] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:05:58] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:06:02] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:14:36] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:14:36] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_14_36
+[12-23 02:14:36] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_14_36
+[12-23 02:14:36] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_14_36
+[12-23 02:14:36] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_14_36
+[12-23 02:14:44] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:14:45] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:14:45] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:14:45] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:14:45] [CBIGUtilities.py:446 - validate_input_files()] ERROR - Excel file format cannot be determined, you must specify an engine manually.
+[12-23 02:14:45] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:14:45] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:14:45] [CBIGUtilities.py:446 - validate_input_files()] ERROR - Excel file format cannot be determined, you must specify an engine manually.
+[12-23 02:14:45] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:15:22] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:15:22] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:15:22] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:15:25] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:20:35] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:20:35] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_20_35
+[12-23 02:20:35] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_20_35
+[12-23 02:20:35] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_20_35
+[12-23 02:20:35] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_20_35
+[12-23 02:20:44] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:20:46] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:20:46] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:20:47] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:20:47] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:20:47] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:20:47] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:20:47] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:20:47] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:20:47] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:20:51] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:22:08] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:22:08] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_22_08
+[12-23 02:22:08] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_22_08
+[12-23 02:22:08] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_22_08
+[12-23 02:22:08] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_22_08
+[12-23 02:22:15] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:22:15] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:22:15] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:22:25] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:22:25] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:22:25] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:22:25] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:22:25] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:22:25] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:22:25] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:22:29] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:38:24] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:38:24] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_38_24
+[12-23 02:38:24] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_38_24
+[12-23 02:38:24] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_38_24
+[12-23 02:38:24] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_38_24
+[12-23 02:38:31] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 2_ReportToDews_Template.xlsx_SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:38:35] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:38:35] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:40:15] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:40:15] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-23 02:40:15] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:40:15] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:40:16] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:40:16] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 2_ReportToDews_Template.xlsx
+[12-23 02:40:16] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:40:19] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:41:49] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:41:49] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_41_49
+[12-23 02:41:49] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_41_49
+[12-23 02:41:49] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_41_49
+[12-23 02:41:49] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_41_49
+[12-23 02:41:56] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:41:56] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:41:57] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:41:57] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:41:57] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:42:00] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:42:43] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:42:43] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_42_43
+[12-23 02:42:43] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_42_43
+[12-23 02:42:43] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_42_43
+[12-23 02:42:43] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_42_43
+[12-23 02:42:49] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:42:49] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:42:50] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:42:50] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:42:50] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:42:53] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:43:19] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:43:19] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_43_19
+[12-23 02:43:19] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_43_19
+[12-23 02:43:19] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_43_19
+[12-23 02:43:19] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_43_19
+[12-23 02:43:26] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:26] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:43:27] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:43:27] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 02:44:26] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:44:26] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_44_26
+[12-23 02:44:26] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_44_26
+[12-23 02:44:26] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_44_26
+[12-23 02:44:26] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_44_26
+[12-23 02:44:33] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:44:33] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:44:34] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:44:34] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:44:34] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:44:37] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:50:36] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:50:36] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_50_36
+[12-23 02:50:36] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_50_36
+[12-23 02:50:36] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_50_36
+[12-23 02:50:36] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_50_36
+[12-23 02:50:44] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:50:44] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:50:44] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:50:44] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:50:44] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:50:48] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:52:09] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:52:09] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_52_09
+[12-23 02:52:09] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_52_09
+[12-23 02:52:09] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_52_09
+[12-23 02:52:09] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_52_09
+[12-23 02:52:17] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:52:17] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:52:29] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:52:29] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:52:29] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:52:33] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 02:58:20] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 02:58:20] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 02_58_20
+[12-23 02:58:20] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 02_58_20
+[12-23 02:58:20] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 02_58_20
+[12-23 02:58:20] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 02_58_20
+[12-23 02:58:31] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:58:31] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:59:04] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:59:04] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 02:59:04] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 02:59:08] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 03:01:23] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:01:23] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_01_23
+[12-23 03:01:23] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_01_23
+[12-23 03:01:23] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_01_23
+[12-23 03:01:23] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_01_23
+[12-23 03:01:33] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:01:33] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:01:33] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:01:33] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:01:33] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:01:37] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 03:01:57] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:01:57] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_01_57
+[12-23 03:01:57] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_01_57
+[12-23 03:01:57] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_01_57
+[12-23 03:01:57] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_01_57
+[12-23 03:02:04] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:02:04] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:02:04] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:02:04] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:02:04] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:02:07] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 03:03:10] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:03:10] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_03_10
+[12-23 03:03:10] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_03_10
+[12-23 03:03:10] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_03_10
+[12-23 03:03:10] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_03_10
+[12-23 03:03:20] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:03:20] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:03:20] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:03:20] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:03:20] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:03:23] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 03:04:07] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:04:07] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_04_07
+[12-23 03:04:07] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_04_07
+[12-23 03:04:07] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_04_07
+[12-23 03:04:07] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_04_07
+[12-23 03:04:15] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:04:15] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:04:28] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:04:28] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:04:28] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:06:05] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:06:05] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_06_05
+[12-23 03:06:05] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_06_05
+[12-23 03:06:05] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_06_05
+[12-23 03:06:05] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_06_05
+[12-23 03:06:13] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:06:13] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:06:24] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:06:24] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:06:24] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:06:28] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 03:13:53] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:13:53] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_13_53
+[12-23 03:13:53] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_13_53
+[12-23 03:13:53] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_13_53
+[12-23 03:13:53] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_13_53
+[12-23 03:14:03] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:14:03] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:14:10] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:14:10] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:14:10] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:14:14] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 03:14:40] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:14:40] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_14_40
+[12-23 03:14:40] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_14_40
+[12-23 03:14:40] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_14_40
+[12-23 03:14:40] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_14_40
+[12-23 03:14:49] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:14:49] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:06] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:06] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:15:20] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 03:15:34] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:15:34] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_15_34
+[12-23 03:15:34] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_15_34
+[12-23 03:15:34] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_15_34
+[12-23 03:15:34] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_15_34
+[12-23 03:15:42] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:15:42] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:16:12] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:16:12] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:14] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:17:14] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_17_14
+[12-23 03:17:14] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_17_14
+[12-23 03:17:14] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_17_14
+[12-23 03:17:14] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_17_14
+[12-23 03:17:22] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:22] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:17:56] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:17:56] [CBIGUtilities.py:438 - validate_input_files()] ERROR - column_name_finder() takes 1 positional argument but 2 were given
+[12-23 03:22:31] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:22:31] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_22_31
+[12-23 03:22:31] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_22_31
+[12-23 03:22:31] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_22_31
+[12-23 03:22:31] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_22_31
+[12-23 03:22:39] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:23:20] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:23:20] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_23_20
+[12-23 03:23:20] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_23_20
+[12-23 03:23:20] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_23_20
+[12-23 03:23:20] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_23_20
+[12-23 03:23:27] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:26:11] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:26:11] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_26_11
+[12-23 03:26:11] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_26_11
+[12-23 03:26:11] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_26_11
+[12-23 03:26:11] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_26_11
+[12-23 03:26:19] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:26:19] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:26:21] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:26:22] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:28:11] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:28:11] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_28_11
+[12-23 03:28:11] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_28_11
+[12-23 03:28:11] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_28_11
+[12-23 03:28:11] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_28_11
+[12-23 03:28:20] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:28:20] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:28:22] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:28:22] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:30:28] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:30:28] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_30_28
+[12-23 03:30:28] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_30_28
+[12-23 03:30:28] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_30_28
+[12-23 03:30:28] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_30_28
+[12-23 03:30:35] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:30:35] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:30:37] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:30:37] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:32:31] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:32:31] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_32_31
+[12-23 03:32:31] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_32_31
+[12-23 03:32:31] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_32_31
+[12-23 03:32:31] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_32_31
+[12-23 03:32:39] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:32:41] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:32:42] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:35:15] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:35:15] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_35_15
+[12-23 03:35:15] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_35_15
+[12-23 03:35:15] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_35_15
+[12-23 03:35:15] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_35_15
+[12-23 03:35:24] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:35:25] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:35:25] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:38:31] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:38:31] [CBIGUtilities.py:431 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:38:31] [CBIGUtilities.py:432 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:38:31] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:38:37] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:38:38] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:41:13] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:41:13] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_41_13
+[12-23 03:41:13] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_41_13
+[12-23 03:41:13] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_41_13
+[12-23 03:41:13] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_41_13
+[12-23 03:41:21] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:41:22] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:41:22] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:41:55] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:41:55] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_41_55
+[12-23 03:41:55] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_41_55
+[12-23 03:41:55] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_41_55
+[12-23 03:41:55] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_41_55
+[12-23 03:42:03] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:42:05] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:42:05] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:42:10] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:42:10] [CBIGUtilities.py:431 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:42:10] [CBIGUtilities.py:432 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:42:10] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:42:12] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:42:12] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:43:15] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:43:15] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_43_15
+[12-23 03:43:15] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_43_15
+[12-23 03:43:15] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_43_15
+[12-23 03:43:15] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_43_15
+[12-23 03:43:24] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:43:26] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:43:26] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:43:30] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:43:30] [CBIGUtilities.py:431 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:43:30] [CBIGUtilities.py:432 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:43:30] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:43:31] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:43:32] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:44:20] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:44:20] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_44_20
+[12-23 03:44:20] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_44_20
+[12-23 03:44:20] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_44_20
+[12-23 03:44:20] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_44_20
+[12-23 03:44:28] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:44:30] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:44:31] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:44:33] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:44:33] [CBIGUtilities.py:431 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:44:33] [CBIGUtilities.py:432 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:44:33] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:44:35] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:44:35] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:48:00] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:48:00] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_48_00
+[12-23 03:48:00] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_48_00
+[12-23 03:48:00] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_48_00
+[12-23 03:48:00] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_48_00
+[12-23 03:48:09] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:48:10] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:48:10] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:48:19] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:48:19] [CBIGUtilities.py:431 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:48:19] [CBIGUtilities.py:432 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:48:20] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:50:46] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:50:46] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_50_46
+[12-23 03:50:46] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_50_46
+[12-23 03:50:46] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_50_46
+[12-23 03:50:46] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_50_46
+[12-23 03:50:55] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:50:57] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:50:57] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:50:58] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:50:58] [CBIGUtilities.py:431 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:50:58] [CBIGUtilities.py:432 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-23 03:50:58] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:51:10] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:51:11] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:53:24] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:53:24] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_53_24
+[12-23 03:53:24] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_53_24
+[12-23 03:53:24] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_53_24
+[12-23 03:53:24] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_53_24
+[12-23 03:53:33] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:53:35] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:53:35] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:53:44] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:53:44] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:54:03] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:54:04] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:58:03] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:58:03] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_58_03
+[12-23 03:58:03] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_58_03
+[12-23 03:58:03] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_58_03
+[12-23 03:58:03] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_58_03
+[12-23 03:58:10] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:58:12] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:58:12] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 03:58:24] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 03:58:24] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:58:31] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 03:58:32] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 03:58:46] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 03:58:46] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 03_58_46
+[12-23 03:58:46] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 03_58_46
+[12-23 03:58:46] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 03_58_46
+[12-23 03:58:46] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 03_58_46
+[12-23 03:58:55] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 03:58:55] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 03:58:56] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:02:12] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:02:12] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_02_12
+[12-23 04:02:12] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_02_12
+[12-23 04:02:12] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_02_12
+[12-23 04:02:12] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_02_12
+[12-23 04:02:19] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:02:22] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:02:22] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:02:29] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 04:02:29] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:02:46] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 04:02:47] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 04:02:56] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:02:56] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_02_56
+[12-23 04:02:56] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_02_56
+[12-23 04:02:56] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_02_56
+[12-23 04:02:56] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_02_56
+[12-23 04:03:05] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:03:07] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:03:08] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:03:19] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 04:03:19] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:03:28] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 04:03:29] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 04:03:42] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:03:42] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_03_42
+[12-23 04:03:42] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_03_42
+[12-23 04:03:42] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_03_42
+[12-23 04:03:42] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_03_42
+[12-23 04:03:50] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:03:53] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:03:53] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:05:03] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:05:03] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_05_03
+[12-23 04:05:03] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_05_03
+[12-23 04:05:03] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_05_03
+[12-23 04:05:03] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_05_03
+[12-23 04:05:12] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:05:13] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:05:13] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:05:22] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 04:05:22] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:05:30] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 04:05:31] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 04:05:42] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:05:42] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_05_42
+[12-23 04:05:42] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_05_42
+[12-23 04:05:42] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_05_42
+[12-23 04:05:42] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_05_42
+[12-23 04:05:50] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:05:51] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:05:51] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:10:14] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:10:14] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_10_14
+[12-23 04:10:14] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_10_14
+[12-23 04:10:14] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_10_14
+[12-23 04:10:14] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_10_14
+[12-23 04:10:22] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:10:23] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:10:24] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:10:44] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 04:10:45] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:11:00] [CBIGUtilities.py:294 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-23 04:11:01] [CBIGUtilities.py:416 - validate_input_files()] INFO - Validation Successfull
+[12-23 04:12:14] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:12:14] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_12_14
+[12-23 04:12:14] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_12_14
+[12-23 04:12:14] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_12_14
+[12-23 04:12:14] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_12_14
+[12-23 04:12:21] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-23 04:12:22] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:12:23] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:13:00] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:13:00] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_13_00
+[12-23 04:13:00] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_13_00
+[12-23 04:13:00] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_13_00
+[12-23 04:13:00] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_13_00
+[12-23 04:13:08] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:13:08] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:13:16] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 04:13:19] [CBIGUtilities.py:217 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 04:13:52] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 04:13:52] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 04_13_52
+[12-23 04:13:52] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 04_13_52
+[12-23 04:13:52] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 04_13_52
+[12-23 04:13:52] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 04_13_52
+[12-23 04:14:00] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 04:14:00] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 04:14:01] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 04:14:05] [CBIGUtilities.py:217 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-23 18:37:06] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-23 18:37:06] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 23_12_2022 18_37_06
+[12-23 18:37:06] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 23_12_2022 18_37_06
+[12-23 18:37:06] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 23_12_2022 18_37_06
+[12-23 18:37:06] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 23_12_2022 18_37_06
+[12-23 18:37:13] [CBIGUtilities.py:118 -        download_file()] INFO - File name: Report To Dews_Template.xlsx_Report To Dews_Template.xlsx
+[12-23 18:37:13] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Report To Dews_Template.xlsx
+[12-23 18:42:58] [CBIGUtilities.py:422 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Report To Dews_Template.xlsx
+[12-23 18:43:02] [CBIGUtilities.py:217 - uploadt_files_to_ftp()] INFO - Connection established ... 

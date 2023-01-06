@@ -1,0 +1,17 @@
+import paramiko
+from DatabaseConfigFile import *
+
+
+host = ftp['hostName']
+username = ftp['userName']
+password = ftp['pswd']
+print(host,username,password)
+with paramiko.SSHClient() as ssh:
+    ssh.load_system_host_keys()
+    ssh.connect(hostname=host, username=username, password=password)
+
+    sftp = ssh.open_sftp()
+    sftp.chdir('puts')
+    print("connection done")
+    sftp.put(r'C:\Users\khannapo\Downloads\CBIG_Insert_ba95dc97215c4b2f8e375e69bb188240.zip', 'CBIG_Insert_ba95dc97215c4b2f8e375e69bb188240.zip')
+    print('done')

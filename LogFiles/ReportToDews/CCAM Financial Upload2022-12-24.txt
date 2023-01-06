@@ -1,0 +1,46 @@
+[12-24 02:07:26] [CCAMFinUpload.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-24 02:07:26] [CCAMFinUpload.py:24 -             <module>()] INFO - Process Started 24_12_2022 02_07_26
+[12-24 02:07:26] [CCAMFinUpload.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 24_12_2022 02_07_26
+[12-24 02:07:26] [CCAMFinUpload.py:38 -             <module>()] INFO - Files Deleted from output folder 24_12_2022 02_07_26
+[12-24 02:07:26] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 24_12_2022 02_07_26
+[12-24 02:07:31] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 4_Financials.xlsm_SAMPLE INDIA 4_Financials.xlsm
+[12-24 02:07:32] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 1_Financials.xlsm_SAMPLE INDIA 1_Financials.xlsm
+[12-24 02:07:33] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 2_Financials.xlsm_SAMPLE INDIA 2_Financials.xlsm
+[12-24 02:07:34] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 3_Financials.xlsm_SAMPLE INDIA 3_Financials.xlsm
+[12-24 02:07:38] [CBIGUtilities.py:217 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-24 02:08:03] [CCAMFinUpload.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-24 02:08:03] [CCAMFinUpload.py:24 -             <module>()] INFO - Process Started 24_12_2022 02_08_03
+[12-24 02:08:03] [CCAMFinUpload.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 24_12_2022 02_08_03
+[12-24 02:08:03] [CCAMFinUpload.py:38 -             <module>()] INFO - Files Deleted from output folder 24_12_2022 02_08_03
+[12-24 02:08:03] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 24_12_2022 02_08_03
+[12-24 02:08:07] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 4_Financials.xlsm_SAMPLE INDIA 4_Financials.xlsm
+[12-24 02:08:08] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 1_Financials.xlsm_SAMPLE INDIA 1_Financials.xlsm
+[12-24 02:08:09] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 2_Financials.xlsm_SAMPLE INDIA 2_Financials.xlsm
+[12-24 02:08:09] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 3_Financials.xlsm_SAMPLE INDIA 3_Financials.xlsm
+[12-24 02:11:13] [CCAMFinUpload.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-24 02:11:13] [CCAMFinUpload.py:24 -             <module>()] INFO - Process Started 24_12_2022 02_11_13
+[12-24 02:11:13] [CCAMFinUpload.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 24_12_2022 02_11_13
+[12-24 02:11:13] [CCAMFinUpload.py:38 -             <module>()] INFO - Files Deleted from output folder 24_12_2022 02_11_13
+[12-24 02:11:13] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 24_12_2022 02_11_13
+[12-24 02:11:18] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 4_Financials.xlsm_SAMPLE INDIA 4_Financials.xlsm
+[12-24 02:11:19] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 1_Financials.xlsm_SAMPLE INDIA 1_Financials.xlsm
+[12-24 02:11:20] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 2_Financials.xlsm_SAMPLE INDIA 2_Financials.xlsm
+[12-24 02:11:21] [CBIGUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 3_Financials.xlsm_SAMPLE INDIA 3_Financials.xlsm
+[12-24 02:13:40] [CCAMFinUpload.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-24 02:13:40] [CCAMFinUpload.py:26 -             <module>()] INFO - Process Started 24_12_2022 02_13_40
+[12-24 02:13:40] [CCAMFinUpload.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 24_12_2022 02_13_40
+[12-24 02:13:40] [CCAMFinUpload.py:40 -             <module>()] INFO - Files Deleted from output folder 24_12_2022 02_13_40
+[12-24 02:13:40] [CCAMUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 24_12_2022 02_13_40
+[12-24 02:13:44] [CCAMUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 4_Financials.xlsm_SAMPLE INDIA 4_Financials.xlsm
+[12-24 02:13:45] [CCAMUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 1_Financials.xlsm_SAMPLE INDIA 1_Financials.xlsm
+[12-24 02:13:46] [CCAMUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 2_Financials.xlsm_SAMPLE INDIA 2_Financials.xlsm
+[12-24 02:13:46] [CCAMUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 3_Financials.xlsm_SAMPLE INDIA 3_Financials.xlsm
+[12-24 02:18:26] [CCAMFinUpload.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-24 02:18:26] [CCAMFinUpload.py:26 -             <module>()] INFO - Process Started 24_12_2022 02_18_26
+[12-24 02:18:26] [CCAMFinUpload.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 24_12_2022 02_18_26
+[12-24 02:18:26] [CCAMFinUpload.py:40 -             <module>()] INFO - Files Deleted from output folder 24_12_2022 02_18_26
+[12-24 02:18:26] [CCAMUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 24_12_2022 02_18_26
+[12-24 02:18:31] [CCAMUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 4_Financials.xlsm_SAMPLE INDIA 4_Financials.xlsm
+[12-24 02:18:31] [CCAMUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 1_Financials.xlsm_SAMPLE INDIA 1_Financials.xlsm
+[12-24 02:18:32] [CCAMUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 2_Financials.xlsm_SAMPLE INDIA 2_Financials.xlsm
+[12-24 02:18:33] [CCAMUtilities.py:118 -        download_file()] INFO - File name: SAMPLE INDIA 3_Financials.xlsm_SAMPLE INDIA 3_Financials.xlsm

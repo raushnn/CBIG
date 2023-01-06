@@ -1,0 +1,95 @@
+[12-30 15:47:25] [CBIGReportToDevws_v1.py:23 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 15:47:25] [CBIGReportToDevws_v1.py:25 -             <module>()] INFO - Process Started 30_12_2022 15_47_25
+[12-30 15:47:25] [CBIGReportToDevws_v1.py:35 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 15_47_25
+[12-30 15:47:25] [CBIGReportToDevws_v1.py:50 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 15_47_25
+[12-30 15:47:25] [CBIGReportToDevws_v1.py:54 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 15_47_25
+[12-30 15:47:25] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 15_47_25
+[12-30 15:47:31] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 15:47:31] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 15:49:59] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 15:49:59] [CBIGReportToDevws_v1.py:28 -             <module>()] INFO - Process Started 30_12_2022 15_49_59
+[12-30 15:49:59] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 15_49_59
+[12-30 15:49:59] [CBIGReportToDevws_v1.py:53 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 15_49_59
+[12-30 15:49:59] [CBIGReportToDevws_v1.py:57 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 15_49_59
+[12-30 15:49:59] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 15_49_59
+[12-30 15:50:04] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 15:50:19] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 15:50:19] [CBIGReportToDevws_v1.py:28 -             <module>()] INFO - Process Started 30_12_2022 15_50_19
+[12-30 15:50:19] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 15_50_19
+[12-30 15:50:19] [CBIGReportToDevws_v1.py:53 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 15_50_19
+[12-30 15:50:19] [CBIGReportToDevws_v1.py:57 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 15_50_19
+[12-30 15:50:19] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 15_50_19
+[12-30 15:50:24] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 15:50:24] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:02:08] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 16:02:08] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - Process Started 30_12_2022 16_02_08
+[12-30 16:02:08] [CBIGReportToDevws_v1.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 16_02_08
+[12-30 16:02:08] [CBIGReportToDevws_v1.py:51 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 16_02_08
+[12-30 16:02:08] [CBIGReportToDevws_v1.py:55 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 16_02_08
+[12-30 16:02:08] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 16_02_08
+[12-30 16:02:13] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:02:13] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:04:41] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 16:04:41] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - Process Started 30_12_2022 16_04_41
+[12-30 16:04:41] [CBIGReportToDevws_v1.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 16_04_41
+[12-30 16:04:41] [CBIGReportToDevws_v1.py:51 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 16_04_41
+[12-30 16:04:41] [CBIGReportToDevws_v1.py:55 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 16_04_41
+[12-30 16:04:41] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 16_04_41
+[12-30 16:04:46] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:04:46] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:04:47] [CBIGUtilities.py:230 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-30 16:04:49] [CBIGUtilities.py:356 - validate_input_files()] INFO - Validation Successfull
+[12-30 16:12:39] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 16:12:39] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - Process Started 30_12_2022 16_12_39
+[12-30 16:12:39] [CBIGReportToDevws_v1.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 16_12_39
+[12-30 16:12:39] [CBIGReportToDevws_v1.py:51 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 16_12_39
+[12-30 16:12:39] [CBIGReportToDevws_v1.py:55 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 16_12_39
+[12-30 16:12:39] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 16_12_39
+[12-30 16:12:44] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:12:44] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:12:46] [CBIGUtilities.py:230 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-30 16:12:47] [CBIGUtilities.py:356 - validate_input_files()] INFO - Validation Successfull
+[12-30 16:13:49] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 16:13:49] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - Process Started 30_12_2022 16_13_49
+[12-30 16:13:49] [CBIGReportToDevws_v1.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 16_13_49
+[12-30 16:13:49] [CBIGReportToDevws_v1.py:51 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 16_13_49
+[12-30 16:13:49] [CBIGReportToDevws_v1.py:55 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 16_13_49
+[12-30 16:13:49] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 16_13_49
+[12-30 16:13:54] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:13:54] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:13:56] [CBIGUtilities.py:230 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-30 16:13:57] [CBIGUtilities.py:356 - validate_input_files()] INFO - Validation Successfull
+[12-30 16:15:46] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 16:15:46] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - Process Started 30_12_2022 16_15_46
+[12-30 16:15:46] [CBIGReportToDevws_v1.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 16_15_46
+[12-30 16:15:46] [CBIGReportToDevws_v1.py:51 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 16_15_46
+[12-30 16:15:46] [CBIGReportToDevws_v1.py:55 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 16_15_46
+[12-30 16:15:46] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 16_15_46
+[12-30 16:15:51] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:15:51] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:16:51] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 16:16:51] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - Process Started 30_12_2022 16_16_51
+[12-30 16:16:51] [CBIGReportToDevws_v1.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 16_16_51
+[12-30 16:16:51] [CBIGReportToDevws_v1.py:51 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 16_16_51
+[12-30 16:16:51] [CBIGReportToDevws_v1.py:55 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 16_16_51
+[12-30 16:16:51] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 16_16_51
+[12-30 16:16:55] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:16:55] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:58:58] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 16:58:58] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - Process Started 30_12_2022 16_58_58
+[12-30 16:58:58] [CBIGReportToDevws_v1.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 16_58_58
+[12-30 16:58:58] [CBIGReportToDevws_v1.py:51 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 16_58_58
+[12-30 16:58:58] [CBIGReportToDevws_v1.py:55 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 16_58_58
+[12-30 16:58:58] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 16_58_58
+[12-30 16:59:03] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 16:59:04] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 23:41:30] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - *********************************START*****************************************************
+[12-30 23:41:30] [CBIGReportToDevws_v1.py:26 -             <module>()] INFO - Process Started 30_12_2022 23_41_30
+[12-30 23:41:30] [CBIGReportToDevws_v1.py:36 -             <module>()] INFO - Deleting Existing Csv files from output folder 30_12_2022 23_41_30
+[12-30 23:41:30] [CBIGReportToDevws_v1.py:51 -             <module>()] INFO - Deleting Existing Excel files from Input folder 30_12_2022 23_41_30
+[12-30 23:41:30] [CBIGReportToDevws_v1.py:55 -             <module>()] INFO - Files Deleted from input folder 30_12_2022 23_41_30
+[12-30 23:41:30] [CBIGUtilities.py:31 -             __init__()] INFO - Files Deleted from output folder 30_12_2022 23_41_30
+[12-30 23:41:40] [CBIGUtilities.py:122 -        download_file()] INFO - File name: Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx_Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 23:41:40] [CBIGUtilities.py:255 - validate_input_files()] INFO - File In Process : Anarock Property Consultants Private Limited - ReportToDews_New Version.xlsx
+[12-30 23:41:41] [CBIGUtilities.py:230 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-30 23:41:43] [CBIGUtilities.py:356 - validate_input_files()] INFO - Validation Successfull

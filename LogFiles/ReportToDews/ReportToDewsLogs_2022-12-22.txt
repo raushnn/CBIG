@@ -1,0 +1,85 @@
+[12-22 01:15:27] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-22 01:15:27] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 22_12_2022 01_15_27
+[12-22 01:15:27] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 22_12_2022 01_15_27
+[12-22 01:15:27] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 22_12_2022 01_15_27
+[12-22 01:15:27] [CBIGUtilities.py:27 -             __init__()] INFO - Files Deleted from output folder 22_12_2022 01_15_27
+[12-22 01:15:35] [CBIGUtilities.py:125 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 01:15:35] [CBIGUtilities.py:326 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 01:15:37] [CBIGUtilities.py:301 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-22 01:15:38] [CBIGUtilities.py:422 - validate_input_files()] INFO - Validation Successfull
+[12-22 01:15:38] [CBIGUtilities.py:326 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-22 01:15:38] [CBIGUtilities.py:301 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-22 01:15:39] [CBIGUtilities.py:422 - validate_input_files()] INFO - Validation Successfull
+[12-22 01:16:36] [CBIGUtilities.py:224 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-22 02:22:07] [CBIGReportToDevws_v1.py:25 -             <module>()] INFO - *********************************START*****************************************************
+[12-22 02:22:07] [CBIGReportToDevws_v1.py:27 -             <module>()] INFO - Process Started 22_12_2022 02_22_07
+[12-22 02:55:56] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-22 02:55:56] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 22_12_2022 02_55_56
+[12-22 02:55:56] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 22_12_2022 02_55_56
+[12-22 02:55:56] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 22_12_2022 02_55_56
+[12-22 02:55:56] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 22_12_2022 02_55_56
+[12-22 02:56:04] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 02:56:04] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 02:56:04] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 02:56:04] [CBIGUtilities.py:446 - validate_input_files()] ERROR - [Errno 13] Permission denied: 'FinNonFin.csv'
+[12-22 02:57:23] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-22 02:57:23] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 22_12_2022 02_57_23
+[12-22 02:57:23] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 22_12_2022 02_57_23
+[12-22 02:57:23] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 22_12_2022 02_57_23
+[12-22 02:57:23] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 22_12_2022 02_57_23
+[12-22 02:57:30] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 02:57:30] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 02:57:31] [CBIGUtilities.py:295 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-22 02:57:34] [CBIGUtilities.py:430 - validate_input_files()] INFO - Validation Successfull
+[12-22 02:57:34] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-22 02:57:35] [CBIGUtilities.py:295 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-22 02:57:37] [CBIGUtilities.py:430 - validate_input_files()] INFO - Validation Successfull
+[12-22 02:58:48] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-22 02:58:48] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 22_12_2022 02_58_48
+[12-22 02:58:48] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 22_12_2022 02_58_48
+[12-22 02:58:48] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 22_12_2022 02_58_48
+[12-22 02:58:48] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 22_12_2022 02_58_48
+[12-22 02:58:58] [CBIGUtilities.py:119 -        download_file()] INFO - File name: SAMPLE INDIA 1_ReportToDews_Template.xlsx_SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 02:58:58] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 02:59:00] [CBIGUtilities.py:295 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-22 02:59:02] [CBIGUtilities.py:430 - validate_input_files()] INFO - Validation Successfull
+[12-22 02:59:02] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-22 02:59:02] [CBIGUtilities.py:295 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-22 02:59:05] [CBIGUtilities.py:430 - validate_input_files()] INFO - Validation Successfull
+[12-22 03:04:40] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-22 03:42:50] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-22 03:42:50] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 22_12_2022 03_42_50
+[12-22 03:42:50] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 22_12_2022 03_42_50
+[12-22 03:42:51] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 22_12_2022 03_42_51
+[12-22 03:42:51] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 22_12_2022 03_42_51
+[12-22 03:43:01] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:43:01] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 03:43:01] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 03:43:01] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\SAMPLE INDIA 1_ReportToDews_Template.xlsx
+[12-22 03:43:01] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-22 03:43:01] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:43:01] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:43:01] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:43:01] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-22 03:43:05] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-22 03:44:50] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-22 03:44:50] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 22_12_2022 03_44_50
+[12-22 03:44:50] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 22_12_2022 03_44_50
+[12-22 03:44:50] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 22_12_2022 03_44_50
+[12-22 03:44:50] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 22_12_2022 03_44_50
+[12-22 03:44:58] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:44:58] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:44:58] [CBIGUtilities.py:436 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:44:58] [CBIGUtilities.py:445 - validate_input_files()] ERROR - C:\Users\khannapo\OneDrive - Dun and Bradstreet\Documents\CBIG\InputFiles\ReportToDews\Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:44:58] [CBIGUtilities.py:446 - validate_input_files()] ERROR - can only concatenate str (not "WindowsPath") to str
+[12-22 03:45:02] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
+[12-22 03:48:15] [CBIGReportToDevws_v1.py:22 -             <module>()] INFO - *********************************START*****************************************************
+[12-22 03:48:15] [CBIGReportToDevws_v1.py:24 -             <module>()] INFO - Process Started 22_12_2022 03_48_15
+[12-22 03:48:15] [CBIGReportToDevws_v1.py:34 -             <module>()] INFO - Deleting Existing Csv files from output folder 22_12_2022 03_48_15
+[12-22 03:48:15] [CBIGReportToDevws_v1.py:38 -             <module>()] INFO - Files Deleted from output folder 22_12_2022 03_48_15
+[12-22 03:48:15] [CBIGUtilities.py:28 -             __init__()] INFO - Files Deleted from output folder 22_12_2022 03_48_15
+[12-22 03:48:23] [CBIGUtilities.py:119 -        download_file()] INFO - File name: Sample India Limited_ReportToDews_Template.xlsx_Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:48:23] [CBIGUtilities.py:320 - validate_input_files()] INFO - File In Process : Sample India Limited_ReportToDews_Template.xlsx
+[12-22 03:48:25] [CBIGUtilities.py:295 -  managesqlconnection()] INFO - Data Stored : Process Completed
+[12-22 03:48:28] [CBIGUtilities.py:430 - validate_input_files()] INFO - Validation Successfull
+[12-22 03:51:44] [CBIGUtilities.py:218 - uploadt_files_to_ftp()] INFO - Connection established ... 
